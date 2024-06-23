@@ -1,5 +1,5 @@
 {
-  "name": "levanter@5.2.3",
+  "name": "9133100238 OPAY",
   "description": "",
   "keywords": ["noedjs"],
   "success_url": "/",
@@ -27,12 +27,12 @@
     "SESSION_ID": {
       "description": "session id",
       "required": true,
-      "value": ""
+      "value": "23_6_ec0e_a5f6_4da5"
     },
     "STICKER_PACKNAME": {
       "description": "sticker pack info",
       "required": false,
-      "value": "❤️,LyFE"
+      "value": "9133100238 OPAY"
     },
     "HEROKU_APP_NAME": {
       "description": "Heroku app name, same as above entered.",
